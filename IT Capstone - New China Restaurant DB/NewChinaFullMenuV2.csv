@@ -1,0 +1,468 @@
+'itemId'£'name'£'category'£'spicy'£'description'£'price'
+'1'£'Roast Pork Egg Roll'£'Appetizers'£FALSE£NULL£1.40
+'2'£'Pizza Roll'£'Appetizers'£FALSE£NULL£1.55
+'3'£'Crispy Vegetable Roll'£'Appetizers'£FALSE£NULL£1.55
+'4'£'Shrimp Roll'£'Appetizers'£FALSE£NULL£1.55
+'5'£'Cheese Steak Roll'£'Appetizers'£FALSE£NULL£1.60
+'6'£'Crab Rangoon (10)'£'Appetizers'£FALSE£NULL£4.75
+'7'£'Scallion Pancake'£'Appetizers'£FALSE£NULL£3.60
+'8'£'China Donut (10)'£'Appetizers'£FALSE£NULL£3.20
+'10'£'Fried Wonton with Sauce (10)'£'Appetizers'£FALSE£NULL£3.50
+'11'£'Fantail Shrimp (2)'£'Appetizers'£FALSE£NULL£2.50
+'12'£'Steamed Shrimp'£'Appetizers'£FALSE£NULL£4.20
+'13'£'Crab Stick (4)'£'Appetizers'£FALSE£NULL£3.00
+'14'£'Shrimp Toast (4)'£'Appetizers'£FALSE£NULL£3.50
+'15'£'Mozzerella Stick'£'Appetizers'£FALSE£NULL£3.20
+'16'£'Chicken Stick (2)'£'Appetizers'£FALSE£NULL£2.75
+'17'£'Teriyaki Stick (2)'£'Appetizers'£FALSE£NULL£2.90
+'18c'£'Cold Noodles with Sesame Sauce'£'Appetizers'£TRUE£NULL£3.50
+'18h'£'Hot Noodles with Sesame Sauce'£'Appetizers'£TRUE£NULL£3.50
+'19'£'Boneless Spare Ribs'£'Appetizers'£FALSE£NULL£10.50
+'20SM'£'Bar-B-Q Spare Ribs (5)'£'Appetizers'£FALSE£NULL£7.20
+'20LG'£'Bar-B-Q Spare Ribs (10)'£'Appetizers'£FALSE£NULL£11.75
+'21SM'£'French Fries (Small)'£'Appetizers'£FALSE£NULL£1.75
+'21LG'£'French Fries (Large)'£'Appetizers'£FALSE£NULL£2.75
+'22SM'£'Cheese Fries (Small)'£'Appetizers'£FALSE£NULL£2.20
+'22LG'£'Cheese Fries (Large)'£'Appetizers'£FALSE£NULL£3.75
+'23SM'£'Fried Banana (Small)'£'Appetizers'£FALSE£NULL£2.25
+'23LG'£'Fried Banana (Large)'£'Appetizers'£FALSE£NULL£3.75
+'24s'£'Steamed Dumplings (8)'£'Appetizers'£FALSE£NULL£4.90
+'24f'£'Fried Dumplings (8)'£'Appetizers'£FALSE£NULL£4.90
+'25s'£'Steamed Veggie Dumplings (8)'£'Appetizers'£FALSE£NULL£4.90
+'25f'£'Fried Veggie Dumplings (8)'£'Appetizers'£FALSE£NULL£4.90
+'26'£'Pu Pu Platter (for 2)'£'Appetizers'£FALSE£'2 Wings, 2 spring roll, 2 fantail shrimp, 2 chicken stick, 2 ribs, 2 shrimp toast, and 2 crab rangoons'£11.20
+'27SM'£'Wonton Soup (Small)'£'Soup'£FALSE£'With Fried Noodles'£2.00
+'27LG'£'Wonton Soup (Large)'£'Soup'£FALSE£'With Fried Noodles'£3.50
+'28SM'£'Egg Drop Soup (Small)'£'Soup'£FALSE£'With Fried Noodles'£2.00
+'28LG'£'Egg Drop Soup (Large)'£'Soup'£FALSE£'With Fried Noodles'£3.25
+'29SM'£'Wonton Egg Drop Mixed Soup (Small)'£'Soup'£FALSE£'With Fried Noodles'£2.10
+'29LG'£'Wonton Egg Drop Mixed Soup (Large)'£'Soup'£FALSE£'With Fried Noodles'£3.50
+'30SM'£'Hot & Sour Soup (Small)'£'Soup'£TRUE£'With Fried Noodles'£2.50
+'30LG'£'Hot & Sour Soup (Large)'£'Soup'£TRUE£'With Fried Noodles'£3.75
+'31rSM'£'Chicken Rice Soup (Small)'£'Soup'£FALSE£'With Fried Noodles'£2.00
+'31rLG'£'Chicken Rice Soup (Large)'£'Soup'£FALSE£'With Fried Noodles'£3.25
+'31nSM'£'Chicken Noodle Soup (Small)'£'Soup'£FALSE£'With Fried Noodles'£2.00
+'31nLG'£'Chicken Rice Soup (Large)'£'Soup'£FALSE£'With Fried Noodles'£3.25
+'32SM'£'Fresh Vegetable Soup (Small)'£'Soup'£FALSE£'With Fried Noodles'£2.00
+'32LG'£'Fresh Vegetable Soup (Large)'£'Soup'£FALSE£'With Fried Noodles'£3.25
+'33SM'£'Shrimp Soup with Vegetable (Small)'£'Soup'£FALSE£'With Fried Noodles'£3.20
+'33SLG'£'Shrimp Soup with Vegetable (Large)'£'Soup'£FALSE£'With Fried Noodles'£4.75
+'34'£'Bean Curd Vegetable Soup (Large)'£'Soup'£FALSE£'With Fried Noodles'£3.50
+'35'£'House Special Soup'£'Soup'£FALSE£'With Fried Noodles'£4.75
+'36'£'Seafood Soup'£'Soup'£FALSE£'With Fried Noodles'£7.20
+'37SM'£'Plain Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£3.50
+'37LG'£'Plain Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£5.20
+'38SM'£'Fresh Vegetable Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£3.80
+'38LG'£'Fresh Vegetable Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£6.00
+'39rSM'£'Roast Pork Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£4.00
+'39rLG'£'Roast Pork Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£6.50
+'39cSM'£'Chicken Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£4.00
+'39cLG'£'Chicken Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£6.50
+'40SM'£'Beef Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£4.50
+'40LG'£'Beef Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£7.50
+'41SM'£'Shrimp Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£4.50
+'41LG'£'Shrimp Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£7.50
+'42SM'£'Lobster Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£5.50
+'42LG'£'Lobster Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£9.00
+'43SM'£'House Special Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£5.50
+'43LG'£'House Special Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£8.50
+'44SM'£'Yang Chow Fried Rice (Small)'£'Fried Rice'£FALSE£NULL£5.50
+'44LG'£'Yang Chow Fried Rice (Large)'£'Fried Rice'£FALSE£NULL£8.50
+'45cmSM'£'Fresh Vegetable Chow Mein (Small)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£4.00
+'45cmLG'£'Fresh Vegetable Chow Mein (Large)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£6.00
+'46cmSM'£'Roast Pork Chow Mein (Small)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£4.20
+'46cmLG'£'Roast Pork Chow Mein (Large)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£6.75
+'47cmSM'£'White Meat Chicken Chow Mein (Small)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£4.20
+'47cmLG'£'White Meat Chicken Chow Mein (Large)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£6.75
+'48cmSM'£'Beef Chow Mein (Small)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£4.50
+'48cmLG'£'Beef Chow Mein (Large)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£7.75
+'49cmSM'£'Shrimp Chow Mein (Small)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£4.50
+'49cmLG'£'Shrimp Chow Mein (Large)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£7.75
+'50cmSM'£'Lobster Chow Mein (Small)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£5.50
+'50cmLG'£'Lobster Chow Mein (Large)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£9.75
+'51cmSM'£'House Special Chow Mein (Small)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£5.50
+'51cmLG'£'House Special Chow Mein (Large)'£'Chow Mein'£FALSE£'Fried Noodle and White Rice'£9.75
+'45csSM'£'Fresh Vegetable Chop Suey (Small)'£'Chop Suey'£FALSE£'With White Rice'£4.00
+'45csLG'£'Fresh Vegetable Chop Suey (Large)'£'Chop Suey'£FALSE£'With White Rice'£6.00
+'46csSM'£'Roast Pork Chop Suey (Small)'£'Chop Suey'£FALSE£'With White Rice'£4.20
+'46csLG'£'Roast Pork Chop Suey (Large)'£'Chop Suey'£FALSE£'With White Rice'£6.75
+'47csSM'£'White Meat Chicken Chop Suey (Small)'£'Chop Suey'£FALSE£'With White Rice'£4.20
+'47csLG'£'White Meat Chicken Chop Suey (Large)'£'Chop Suey'£FALSE£'With White Rice'£6.75
+'48csSM'£'Beef Chop Suey (Small)'£'Chop Suey'£FALSE£'With White Rice'£4.50
+'48csLG'£'Beef Chop Suey (Large)'£'Chop Suey'£FALSE£'With White Rice'£7.75
+'49csSM'£'Shrimp Chop Suey (Small)'£'Chop Suey'£FALSE£'With White Rice'£4.50
+'49csLG'£'Shrimp Chop Suey (Large)'£'Chop Suey'£FALSE£'With White Rice'£7.75
+'50csSM'£'Lobster Chop Suey (Small)'£'Chop Suey'£FALSE£'With White Rice'£5.50
+'50csLG'£'Lobster Chop Suey (Large)'£'Chop Suey'£FALSE£'With White Rice'£9.75
+'51csSM'£'House Special Chop Suey (Small)'£'Chop Suey'£FALSE£'With White Rice'£5.50
+'51csLG'£'House Special Chop Suey (Large)'£'Chop Suey'£FALSE£'With White Rice'£9.75
+'52SM'£'Vegetable Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles'£4.20
+'52LG'£'Vegetable Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles'£6.75
+'53rpSM'£'Roast Pork Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles'£4.50
+'53rpLG'£'Roast Pork Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles'£7.20
+'53cSM'£'Chicken Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles'£4.50
+'53cLG'£'Chicken Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles'£7.20
+'54SM'£'Beef Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles'£4.75
+'54LG'£'Beef Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles'£8.00
+'55SM'£'Shrimp Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles'£4.75
+'55LG'£'Shrimp Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles'£8.00
+'56SM'£'Lobster Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles'£5.50
+'56LG'£'Lobster Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles'£9.50
+'57SM'£'House Special Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles (Roast Pork, Chicken & Shrimp)'£5.50
+'57LG'£'House Special Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles (Roast Pork, Chicken & Shrimp)'£8.75
+'58SM'£'Seafood Lo Mein (Small)'£'Lo Mein'£FALSE£'Soft Noodles'£5.75
+'58LG'£'Seafood Lo Mein (Large)'£'Lo Mein'£FALSE£'Soft Noodles'£10.00
+'59'£'Vegetable Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£6.75
+'60rp'£'Roast Pork Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£7.20
+'60c'£'Chicken Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£7.20
+'61'£'Beef Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£8.00
+'62'£'Shrimp Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£8.00
+'63'£'Lobster Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£9.50
+'64'£'House Special Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£9.50
+'65'£'Singapore Chow Mei Fun'£'Mei Fun'£TRUE£'Rice Thin Noodles'£9.50
+'66'£'Seafood Mei Fun'£'Mei Fun'£FALSE£'Rice Thin Noodles'£10.00
+'67'£'Plain Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice'£5.20
+'68'£'Fresh Vegetable Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice'£5.50
+'69rp'£'Roast Pork Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice'£6.75
+'69c'£'Chicken Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice'£6.75
+'70'£'Beef Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice'£7.00
+'71'£'Shrimp Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice'£7.00
+'72'£'Lobster Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice'£8.50
+'73'£'House Special Egg Foo Young'£'Egg Foo Young'£FALSE£'With Gravy and White Rice (Roast Pork, Chicken and Shrimp)'£7.50
+'74'£'Moo Shu Vegetables'£'Moo Shu Dish'£FALSE£'With White Rice & 5 Pancakes'£7.00
+'75c'£'Moo Shu Chicken'£'Moo Shu Dish'£FALSE£'With White Rice & 5 Pancakes'£8.20
+'75p'£'Moo Shu Pork'£'Moo Shu Dish'£FALSE£'With White Rice & 5 Pancakes'£8.20
+'76'£'Moo Shu Beef'£'Moo Shu Dish'£FALSE£'With White Rice & 5 Pancakes'£8.75
+'77'£'Moo Shu Shrimp'£'Moo Shu Dish'£FALSE£'With White Rice & 5 Pancakes'£8.75
+'78SM'£'Sweet & Sour Pork (Small)'£'Sweet & Sour'£FALSE£'With White Rice and Sweet & Sour Sauce'£5.20
+'78LG'£'Sweet & Sour Pork (Large)'£'Sweet & Sour'£FALSE£'With White Rice and Sweet & Sour Sauce'£8.00
+'79SM'£'Sweet & Sour Chicken (Small)'£'Sweet & Sour'£FALSE£'With White Rice and Sweet & Sour Sauce'£5.20
+'79LG'£'Sweet & Sour Chicken (Large)'£'Sweet & Sour'£FALSE£'With White Rice and Sweet & Sour Sauce'£8.00
+'80SM'£'Sweet & Sour Shrimp (Small)'£'Sweet & Sour'£FALSE£'With White Rice and Sweet & Sour Sauce'£5.50
+'80LG'£'Sweet & Sour Shrimp (Large)'£'Sweet & Sour'£FALSE£'With White Rice and Sweet & Sour Sauce'£9.00
+'81'£'Sweet & Sour Delight (Large)'£'Sweet & Sour'£FALSE£'With White Rice and Sweet & Sour Sauce (Chicken, Pork & Shrimp)'£9.50
+'82SM'£'Plain Broccoli (Small)'£'Vegetable'£FALSE£'With White Rice'£4.20
+'82LG'£'Plain Broccoli (Large)'£'Vegetable'£FALSE£'With White Rice'£6.75
+'83SM'£'Broccoli with Garlic Sauce (Small)'£'Vegetable'£TRUE£'With White Rice'£4.20
+'83LG'£'Broccoli with Garlic Sauce (Large)'£'Vegetable'£TRUE£'With White Rice'£6.75
+'84SM'£'Sauteed String Beans (Small)'£'Vegetable'£FALSE£'With White Rice'£4.20
+'84LG'£'Sauteed String Beans (Large)'£'Vegetable'£FALSE£'With White Rice'£6.75
+'85'£'Bean Curd Home Style (Large)'£'Vegetable'£TRUE£'With White Rice'£7.20
+'86'£'Bean Curd with Szechuan Style'£'Vegetable'£TRUE£'With White Rice'£7.20
+'87SM'£'Buddha''s Delight (Small)'£'Vegetable'£FALSE£'With White Rice'£4.20
+'87LG'£'Buddha''s Delight (Large)'£'Vegetable'£FALSE£'With White Rice'£6.75
+'88'£'Mo Po Tofu (Large)'£'Vegetable'£TRUE£'With White Rice'£6.75
+'89SM'£'Roast Pork with Chinese Vegetables (Small)'£'Roast Pork'£FALSE£'With White Rice'£5.00
+'89LG'£'Roast Pork with Chinese Vegetables (Large)'£'Roast Pork'£FALSE£'With White Rice'£8.20
+'90SM'£'Roast Pork with Broccoli (Small)'£'Roast Pork'£FALSE£'With White Rice'£5.00
+'90LG'£'Roast Pork with Broccoli (Large)'£'Roast Pork'£FALSE£'With White Rice'£8.20
+'91SM'£'Roast Pork with Garlic Sauce (Small)'£'Roast Pork'£TRUE£'With White Rice'£5.00
+'91LG'£'Roast Pork with Garlic Sauce (Large)'£'Roast Pork'£TRUE£'With White Rice'£8.20
+'92SM'£'Roast Pork with Kung Pao Sauce (Small)'£'Roast Pork'£TRUE£'With White Rice'£5.00
+'92LG'£'Roast Pork with Kung Pao Sauce (Large)'£'Roast Pork'£TRUE£'With White Rice'£8.20
+'93SM'£'Roast Pork with Cashew Nuts (Small)'£'Roast Pork'£FALSE£'With White Rice'£5.00
+'93LG'£'Roast Pork with Cashew Nuts (Large)'£'Roast Pork'£FALSE£'With White Rice'£8.20
+'94SM'£'Roast Pork with Mixed Vegetables (Small)'£'Roast Pork'£FALSE£'With White Rice'£5.00
+'94LG'£'Roast Pork with Mixed Vegetables (Large)'£'Roast Pork'£FALSE£'With White Rice'£8.20
+'95SM'£'Roast Pork with Snow Peas (Small)'£'Roast Pork'£FALSE£'With White Rice'£6.00
+'95LG'£'Roast Pork with Snow Peas (Large)'£'Roast Pork'£FALSE£'With White Rice'£9.50
+'96SM'£'Chicken with Broccoli (Small)'£'Chicken'£FALSE£'With White Rice'£5.20
+'96LG'£'Chicken with Broccoli (Large)'£'Chicken'£FALSE£'With White Rice'£8.75
+'97SM'£'Chicken with Black Bean Sauce (Small)'£'Chicken'£FALSE£'With White Rice'£5.20
+'97LG'£'Chicken with Black Bean Sauce (Large)'£'Chicken'£FALSE£'With White Rice'£8.75
+'98SM'£'Moo Goo Gai Pan (Small)'£'Chicken'£FALSE£'With White Rice'£5.20
+'98LG'£'Moo Goo Gai Pan (Large)'£'Chicken'£FALSE£'With White Rice'£8.75
+'99SM'£'Curry Chicken with Onion (Small)'£'Chicken'£TRUE£'With White Rice'£5.20
+'99LG'£'Curry Chicken with Onion (Large)'£'Chicken'£TRUE£'With White Rice'£8.75
+'100SM'£'Chicken with String Bean (Small)'£'Chicken'£FALSE£'With White Rice'£5.20
+'100LG'£'Chicken with String Bean (Large)'£'Chicken'£FALSE£'With White Rice'£8.75
+'101SM'£'Chicken with Cashew Nuts (Small)'£'Chicken'£FALSE£'With White Rice'£5.20
+'101LG'£'Chicken with Cashew Nuts (Large)'£'Chicken'£FALSE£'With White Rice'£8.75
+'102SM'£'Kung Pao Chicken (Small)'£'Chicken'£TRUE£'With White Rice'£5.20
+'102LG'£'Kung Pao Chicken (Large)'£'Chicken'£TRUE£'With White Rice'£8.75
+'103SM'£'Chicken with Pepper & Onion (Small)'£'Chicken'£FALSE£'With White Rice'£5.20
+'103LG'£'Chicken with Pepper & Onion (Large)'£'Chicken'£FALSE£'With White Rice'£8.75
+'104SM'£'Chicken with Snow Peas (Small)'£'Chicken'£FALSE£'With White Rice'£6.20
+'104LG'£'Chicken with Snow Peas (Large)'£'Chicken'£FALSE£'With White Rice'£9.75
+'105SM'£'Honey Chicken (Small)'£'Chicken'£FALSE£'With White Rice'£5.20
+'105LG'£'Honey Chicken (Large)'£'Chicken'£FALSE£'With White Rice'£8.75
+'106SM'£'Hunan Chicken (Small)'£'Chicken'£TRUE£'With White Rice'£5.20
+'106LG'£'Hunan Chicken (Large)'£'Chicken'£TRUE£'With White Rice'£8.75
+'107SM'£'Szechuan Chicken with Vegetables (Small)'£'Chicken'£TRUE£'With White Rice'£5.20
+'107LG'£'Szechuan Chicken with Vegetables (Large)'£'Chicken'£TRUE£'With White Rice'£8.75
+'108SM'£'Shredded Chicken with Garlic Sauce (Small)'£'Chicken'£TRUE£'With White Rice'£5.20
+'108LG'£'Shredded Chicken with Garlic Sauce (Large)'£'Chicken'£TRUE£'With White Rice'£8.75
+'109'£'Mongolian Chicken (Large)'£'Chicken'£TRUE£'With White Rice'£8.75
+'110'£'Boneless Chicken'£'Chicken'£FALSE£'With White Rice'£9.00
+'111SM'£'Pepper Steak with Onion (Small)'£'Beef'£FALSE£'With White Rice'£5.50
+'111LG'£'Pepper Steak with Onion (Large)'£'Beef'£FALSE£'With White Rice'£9.20
+'112SM'£'Beef with Broccoli (Small)'£'Beef'£FALSE£'With White Rice'£5.50
+'112LG'£'Beef with Broccoli (Large)'£'Beef'£FALSE£'With White Rice'£9.20
+'113SM'£'Beef with Mushrooms (Small)'£'Beef'£FALSE£'With White Rice'£5.50
+'113LG'£'Beef with Mushrooms (Large)'£'Beef'£FALSE£'With White Rice'£9.20
+'114SM'£'Beef with Oyster Sauce (Small)'£'Beef'£FALSE£'With White Rice'£5.50
+'114LG'£'Beef with Oyster Sauce (Large)'£'Beef'£FALSE£'With White Rice'£9.20
+'115SM'£'Beef with Snow Peas (Small)'£'Beef'£FALSE£'With White Rice'£6.75
+'115LG'£'Beef with Snow Peas (Large)'£'Beef'£FALSE£'With White Rice'£10.20
+'116SM'£'Curry Beef with Onions (Small)'£'Beef'£TRUE£'With White Rice'£5.50
+'116LG'£'Curry Beef with Onions (Large)'£'Beef'£TRUE£'With White Rice'£9.20
+'117SM'£'Beef with Black Bean Sauce (Small)'£'Beef'£FALSE£'With White Rice'£5.50
+'117LG'£'Beef with Black Bean Sauce (Large)'£'Beef'£FALSE£'With White Rice'£9.20
+'118SM'£'Hunan Beef (Small)'£'Beef'£TRUE£'With White Rice'£5.50
+'118LG'£'Hunan Beef (Large)'£'Beef'£TRUE£'With White Rice'£9.20
+'119SM'£'Pepper Steak with Tomato (Small)'£'Beef'£FALSE£'With White Rice'£5.50
+'119LG'£'Pepper Steak with Tomato (Large)'£'Beef'£FALSE£'With White Rice'£9.20
+'120'£'Beef with Scallions (Large)'£'Beef'£FALSE£'With White Rice'£9.20
+'121SM'£'Szechuan Beef with Vegetables (Small)'£'Beef'£TRUE£'With White Rice'£5.50
+'121LG'£'Szechuan Beef with Vegetables (Large)'£'Beef'£TRUE£'With White Rice'£9.20
+'122SM'£'Shredded Beef with Garlic Sauce (Small)'£'Beef'£TRUE£'With White Rice'£5.50
+'122LG'£'Shredded Beef with Garlic Sauce (Large)'£'Beef'£TRUE£'With White Rice'£9.20
+'123SM'£'Kung Pao Beef (Small)'£'Beef'£TRUE£'With White Rice'£5.50
+'123LG'£'Kung Pao Beef (Large)'£'Beef'£TRUE£'With White Rice'£9.20
+'124'£'Mongolian Beef (Large)'£'Beef'£TRUE£'With White Rice'£9.50
+'125SM'£'Shrimp with Broccoli (Small)'£'Seafood'£FALSE£'With White Rice'£5.50
+'125LG'£'Shrimp with Broccoli (Large)'£'Seafood'£FALSE£'With White Rice'£9.75
+'126SM'£'Shrimp with Lobster Sauce (Small)'£'Seafood'£FALSE£'With White Rice'£5.50
+'126LG'£'Shrimp with Lobster Sauce (Large)'£'Seafood'£FALSE£'With White Rice'£9.75
+'127SM'£'Curry Shrimp with Onions (Small)'£'Seafood'£TRUE£'With White Rice'£5.50
+'127LG'£'Curry Shrimp with Onions (Large)'£'Seafood'£TRUE£'With White Rice'£9.75
+'128SM'£'Shrimp with Chinese Vegetables (Small)'£'Seafood'£FALSE£'With White Rice'£5.50
+'128LG'£'Shrimp with Chinese Vegetables (Large)'£'Seafood'£FALSE£'With White Rice'£9.75
+'129SM'£'Shrimp with Black Bean Sauce (Small)'£'Seafood'£FALSE£'With White Rice'£5.50
+'129LG'£'Shrimp with Black Bean Sauce (Large)'£'Seafood'£FALSE£'With White Rice'£9.75
+'130SM'£'Shrimp with Cashew Nuts (Small)'£'Seafood'£FALSE£'With White Rice'£5.50
+'130LG'£'Shrimp with Cashew Nuts (Large)'£'Seafood'£FALSE£'With White Rice'£9.75
+'131SM'£'Kung Pao Shrimp (Small)'£'Seafood'£TRUE£'With White Rice'£5.50
+'131LG'£'Kung Pao Shrimp (Large)'£'Seafood'£TRUE£'With White Rice'£9.75
+'132SM'£'Shrimp with Almond Ding (Small)'£'Seafood'£FALSE£'With White Rice'£5.50
+'132LG'£'Shrimp with Almond Ding (Large)'£'Seafood'£FALSE£'With White Rice'£9.75
+'133SM'£'Shrimp with Garlic Sauce (Small)'£'Seafood'£TRUE£'With White Rice'£5.50
+'133LG'£'Shrimp with Garlic Sauce (Large)'£'Seafood'£TRUE£'With White Rice'£9.75
+'134SM'£'Pepper Shrimp with Onion (Small)'£'Seafood'£FALSE£'With White Rice'£5.75
+'134LG'£'Pepper Shrimp with Onion (Large)'£'Seafood'£FALSE£'With White Rice'£9.75
+'135SM'£'Shrimp with Snow Peas (Small)'£'Seafood'£FALSE£'With White Rice'£6.75
+'135LG'£'Shrimp with Snow Peas (Large)'£'Seafood'£FALSE£'With White Rice'£10.75
+'136SM'£'Hunan Shrimp (Small)'£'Seafood'£TRUE£'With White Rice'£5.50
+'136LG'£'Hunan Shrimp (Large)'£'Seafood'£TRUE£'With White Rice'£9.75
+'137SM'£'Szechuan Shrimp (Small)'£'Seafood'£TRUE£'With White Rice'£5.50
+'137LG'£'Szechuan Shrimp (Large)'£'Seafood'£TRUE£'With White Rice'£9.75
+'138'£'Jumbo Shrimp with Chili Sauce (Large)'£'Seafood'£TRUE£'With White Rice'£9.75
+'139'£'Butterfly Shrimp with Bacon (Large)'£'Seafood'£FALSE£'With White Rice'£10.20
+'140'£'Scallops with Broccoli (Large)'£'Seafood'£FALSE£'With White Rice'£10.20
+'141'£'Scallops with Garlic Sauce (Large)'£'Seafood'£TRUE£'With White Rice'£10.20
+'142'£'Scallops with Mixed Vegetables (Large)'£'Seafood'£FALSE£'With White Rice'£10.20
+'D1'£'Mixed Vegetable'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£6.75
+'D2'£'Chicken with Mixed Vegetable'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£8.75
+'D3'£'Shrimp with Mixed Vegetable'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£9.75
+'D4'£'Chicken with Broccoli'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£8.75
+'D5'£'Shrimp with Broccoli'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£9.75
+'D6'£'Broccoli, Snow Peas, String Bean'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£6.75
+'D7'£'Scallop with Mixed Vegetables'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£10.00
+'D8'£'Steamed Seafood Delight'£'Special Diet'£FALSE£'With Steamed Rice; No Salt, No Oil, No Corn Starch, No MSG; special ginger sauce on side'£12.20
+'H1P'£'Fried Chicken Wings (Plain)'£'House Special Platters'£FALSE£NULL£5.00
+'H1FR'£'Fried Chicken Wings (With Fried Rice)'£'House Special Platters'£FALSE£NULL£6.20
+'H1FF'£'Fried Chicken Wings (With French Fries)'£'House Special Platters'£FALSE£NULL£6.20
+'H1VFR'£'Fried Chicken Wings (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£6.75
+'H1CFR'£'Fried Chicken Wings (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£6.75
+'H1RPFR'£'Fried Chicken Wings (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£6.75
+'H1SFR'£'Fried Chicken Wings (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£7.50
+'H1BFR'£'Fried Chicken Wings (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£7.50
+'H2P'£'Shrimp in Basket (Plain)'£'House Special Platters'£FALSE£NULL£4.20
+'H2FR'£'Shrimp in Basket (With Fried Rice)'£'House Special Platters'£FALSE£NULL£5.20
+'H2FF'£'Shrimp in Basket (With French Fries)'£'House Special Platters'£FALSE£NULL£5.20
+'H2VFR'£'Shrimp in Basket (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H2CFR'£'Shrimp in Basket (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H2RPFR'£'Shrimp in Basket (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H2SFR'£'Shrimp in Basket (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£6.50
+'H2BFR'£'Shrimp in Basket (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£6.50
+'H3P'£'Fried Scallops (10) (Plain)'£'House Special Platters'£FALSE£NULL£3.50
+'H3FR'£'Fried Scallops (10) (With Fried Rice)'£'House Special Platters'£FALSE£NULL£5.20
+'H3FF'£'Fried Scallops (10) (With French Fries)'£'House Special Platters'£FALSE£NULL£5.20
+'H3VFR'£'Fried Scallops (10) (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£5.50
+'H3CFR'£'Fried Scallops (10) (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£5.50
+'H3RPFR'£'Fried Scallops (10) (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£5.50
+'H3SFR'£'Fried Scallops (10) (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H3BFR'£'Fried Scallops (10) (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H4P'£'Chicken Nuggets (10) (Plain)'£'House Special Platters'£FALSE£NULL£3.00
+'H4FR'£'Chicken Nuggets (10) (With Fried Rice)'£'House Special Platters'£FALSE£NULL£4.20
+'H4FF'£'Chicken Nuggets (10) (With French Fries)'£'House Special Platters'£FALSE£NULL£4.20
+'H4VFR'£'Chicken Nuggets (10) (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£4.75
+'H4CFR'£'Chicken Nuggets (10) (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£4.75
+'H4RPFR'£'Chicken Nuggets (10) (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£4.75
+'H4SFR'£'Chicken Nuggets (10) (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£5.20
+'H4BFR'£'Chicken Nuggets (10) (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£5.20
+'H5P'£'Boneless Spare Ribs (Plain)'£'House Special Platters'£FALSE£NULL£5.75
+'H5FR'£'Boneless Spare Ribs (With Fried Rice)'£'House Special Platters'£FALSE£NULL£6.75
+'H5FF'£'Boneless Spare Ribs (With French Fries)'£'House Special Platters'£FALSE£NULL£6.75
+'H5VFR'£'Boneless Spare Ribs (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£7.20
+'H5CFR'£'Boneless Spare Ribs (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£7.20
+'H5RPFR'£'Boneless Spare Ribs (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£7.20
+'H5SFR'£'Boneless Spare Ribs (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£7.75
+'H5BFR'£'Boneless Spare Ribs (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£7.75
+'H6P'£'Bar-B-Q (Barbecue) Spare Ribs (5) (Plain)'£'House Special Platters'£FALSE£NULL£6.20
+'H6FR'£'Bar-B-Q (Barbecue) Spare Ribs (5) (With Fried Rice)'£'House Special Platters'£FALSE£NULL£7.20
+'H6FF'£'Bar-B-Q (Barbecue) Spare Ribs (5) (With French Fries)'£'House Special Platters'£FALSE£NULL£7.20
+'H6VFR'£'Bar-B-Q (Barbecue) Spare Ribs (5) (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£7.50
+'H6CFR'£'Bar-B-Q (Barbecue) Spare Ribs (5) (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£7.50
+'H6RPFR'£'Bar-B-Q (Barbecue) Spare Ribs (5) (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£7.50
+'H6SFR'£'Bar-B-Q (Barbecue) Spare Ribs (5) (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£8.00
+'H6BFR'£'Bar-B-Q (Barbecue) Spare Ribs (5) (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£8.00
+'H7P'£'Popcorn Chicken (Plain)'£'House Special Platters'£FALSE£NULL£4.20
+'H7FR'£'Popcorn Chicken (With Fried Rice)'£'House Special Platters'£FALSE£NULL£5.50
+'H7FF'£'Popcorn Chicken (With French Fries)'£'House Special Platters'£FALSE£NULL£5.50
+'H7VFR'£'Popcorn Chicken (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H7CFR'£'Popcorn Chicken (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H7RPFR'£'Popcorn Chicken (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£5.75
+'H7SFR'£'Popcorn Chicken (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£6.50
+'H7BFR'£'Popcorn Chicken (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£6.50
+'H8P'£'Fried Jumbo Shrimp (5) (Plain)'£'House Special Platters'£FALSE£NULL£5.50
+'H8FR'£'Fried Jumbo Shrimp (5) (With Fried Rice)'£'House Special Platters'£FALSE£NULL£6.20
+'H8FF'£'Fried Jumbo Shrimp (5) (With French Fries)'£'House Special Platters'£FALSE£NULL£6.20
+'H8VFR'£'Fried Jumbo Shrimp (5) (With Vegetable Fried Rice)'£'House Special Platters'£FALSE£NULL£6.75
+'H8CFR'£'Fried Jumbo Shrimp (5) (With Chicken Fried Rice)'£'House Special Platters'£FALSE£NULL£6.75
+'H8RPFR'£'Fried Jumbo Shrimp (5) (With Roast Pork Fried Rice)'£'House Special Platters'£FALSE£NULL£6.75
+'H8SFR'£'Fried Jumbo Shrimp (5) (With Shrimp Fried Rice)'£'House Special Platters'£FALSE£NULL£7.20
+'H8BFR'£'Fried Jumbo Shrimp (5) (With Beef Fried Rice)'£'House Special Platters'£FALSE£NULL£7.20
+'CW6'£'6 Pieces Chicken Wings (1 Flavor)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£4.25
+'CW10'£'10 Pieces Chicken Wings (1 Flavor)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£7.25
+'CW15'£'15 Pieces Chicken Wings (2 Flavors)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£11.05
+'CW20'£'20 Pieces Chicken Wings (2 Flavors)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£14.25
+'CW30'£'30 Pieces Chicken Wings (3 Flavors)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£20.25
+'CW50'£'50 Pieces Chicken Wings (3 Flavors)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£32.25
+'CW75'£'75 Pieces Chicken Wings (5 Flavors)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£46.25
+'CW100'£'100 Pieces Chicken Wings (5 Flavors)'£'Chicken Wings'£TRUE£'Flavor Choices: Mild/Hot/Extra Hot/Lemon & Pepper/Garlic/Honey Braised/Honey BBQ/Honey Lemon & Pepper/Honey Garlic Pepper/Sweet Chili/Buffalo'£59.25
+'S1'£'Happy Family'£'Chef''s Specialties'£FALSE£'With White Rice; Crab meat, jumbo shrimp, beef, chicken, sliced pork with mixed vegetables in our traditional brown sauce'£10.25
+'S2'£'Kung Pao Delight'£'Chef''s Specialties'£TRUE£'With White Rice; Jumbo shrimp and filet beef in our house special hot pepper sauce with vegetables'£10.00
+'S3'£'Hunan Classic'£'Chef''s Specialties'£TRUE£'With White Rice; A classic combination of jumbo shrimp and fresh chicken sauteed with broccoli, baby corn, straw mushroom and sweet pepper carrot in a spicy black bean sauce'£9.75
+'S4'£'Dragon & Phoenix'£'Chef''s Specialties'£TRUE£'With White Rice; Szechuan jumbo shrimp on the side, General Tso''s chicken on the other side'£10.00
+'S5'£'Double Delight'£'Chef''s Specialties'£FALSE£'With White Rice; Jumbo shrimp & fresh scallops with broccoli, snow peas, baby corn, mushroom & water chestnuts in our chef''s special light sauce'£11.00
+'S6GT'£'General Tso''s Chicken'£'Chef''s Specialties'£TRUE£'With White Rice; Chunks of chicken, sauteed in special sauce & steamed broccoli'£9.20
+'S6CO'£'Crispy Orange Chicken'£'Chef''s Specialties'£TRUE£'With White Rice; Chunks of chicken, sauteed in special sauce & steamed broccoli'£9.20
+'S6SC'£'Sesame Chicken'£'Chef''s Specialties'£TRUE£'With White Rice; Chunks of chicken, sauteed in special sauce & steamed broccoli'£9.20
+'S7'£'Scallops & Shrimp'£'Chef''s Specialties'£TRUE£'With White Rice and garlic sauce; Fresh scallop & jumbo shrimp'£11.00
+'S8'£'Beef with Scallops'£'Chef''s Specialties'£FALSE£'With White Rice; Tender beef with fresh scallops'£10.20
+'S9'£'Triple Delight'£'Chef''s Specialties'£FALSE£'With White Rice; Jumbo shrimp, chicken & beef sauteed in vegetables in brown sauce'£10.20
+'S10'£'Lemon Chicken'£'Chef''s Specialties'£FALSE£'With White Rice; Crispy fried chicken, special lemon sauce on the side'£8.75
+'S11SB'£'Sesame Beef'£'Chef''s Specialties'£FALSE£'With White Rice'£9.50
+'S11COB'£'Crispy Orange Beef'£'Chef''s Specialties'£TRUE£'With White Rice'£9.50
+'S12'£'Hawaii Five "O"'£'Chef''s Specialties'£FALSE£'With White Rice; Beef, chicken, roast pork, shrimp & scallops sauteed with mixed vegetables in chef''s special sauce'£11.75
+'S13SS'£'Sesame Shrimp'£'Chef''s Specialties'£FALSE£'With White Rice; Jumbo shrimp battered with water chestnuts flour, then sweetly pungent sauce surrounded with broccoli '£10.00
+'S13GTS'£'General Tso''s Shrimp'£'Chef''s Specialties'£TRUE£'With White Rice; Jumbo shrimp battered with water chestnuts flour, then sweetly pungent sauce surrounded with broccoli '£10.00
+'S14'£'Four Season'£'Chef''s Specialties'£FALSE£'With White Rice; Shrimp, chicken, roast pork, beef with mixed vegetables in brown sauce'£9.75
+'S15'£'Seafood Combination'£'Chef''s Specialties'£FALSE£'With White Rice; Crab meat, jumbo shrimp, fresh scallops and lobster meat deliciously sauteed with assorted Chinese vegetables in special white wine sauce. Excellent for seafood lovers'£12.20
+'S16'£'Hot Pepper Pork'£'Chef''s Specialties'£TRUE£'With White Rice'£9.00
+'S17'£'Subgum Wonton'£'Chef''s Specialties'£FALSE£'With White Rice; Shrimp, roast pork, chicken with mixed vegetables & crispy fried wonton on the side, appetizers plus entree'£9.75
+'S18'£'Pineapple Chicken'£'Chef''s Specialties'£FALSE£'With White Rice; White meat chicken with pineapple'£9.20
+'S19'£'Seafood Pan Fried Noodles'£'Chef''s Specialties'£FALSE£'With White Rice; Snow peas, broccoli, baby corn, water chestnuts, carrots, jumbo shrimp, scallop, & lobster'£12.20
+'S20RPPFN'£'Roast Pork Pan Fried Noodles'£'Chef''s Specialties'£FALSE£'With White Rice'£9.00
+'S20CPFN'£'Chicken Pan Fried Noodles'£'Chef''s Specialties'£FALSE£'With White Rice'£9.00
+'S21'£'Beef Pan Fried Noodles'£'Chef''s Specialties'£FALSE£'With White Rice'£10.20
+'S22'£'Shrimp Pan Fried Noodles'£'Chef''s Specialties'£FALSE£'With White Rice'£10.20
+'S23'£'General Tso''s Tofu'£'Chef''s Specialties'£TRUE£'With White Rice'£7.75
+'C1C'£'Chicken Chow Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C1PCM'£'Pork Chow Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C2C'£'Sweet & Sour Chicken'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C2P'£'Sweet & Sour Pork'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C3RP'£'Roast Pork Egg Foo Young'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C3C'£'Chicken Egg Foo Young'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C4'£'Moo Goo Gai Pan'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C5RP'£'Roast Pork with Broccoli'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C5C'£'Chicken with Broccoli'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C6C'£'Chicken with Cashew Nuts'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C6RP'£'Roast Pork with Cashew Nuts'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C7C'£'Chicken Lo Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C7RP'£'Roast Pork Lo Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C8'£'Chicken with Szechuan Sauce'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C9'£'Hunan Chicken'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C10SP'£'Shredded Pork with Garlic Sauce'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C10C'£'Chicken with Garlic Sauce'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C11GT'£'General Tso''s Chicken'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C11SC'£'Sesame Chicken'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C12KP'£'Kung Pao Chicken'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C12P'£'Kung Pao Pork'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C13'£'Bar-B-Q (Barbecue) Spare Ribs'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.75
+'C14'£'Boneless Spare Ribs'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.75
+'C15'£'Pepper Steak with Onion'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C16'£'Shrimp with Lobster Sauce'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C17S'£'Shrimp Lo Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C17B'£'Beef Lo Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C18B'£'Beef with Broccoli'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C18S'£'Shrimp with Broccoli'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C19S'£'Shrimp Chow Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C19B'£'Beef Chow Mein'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C20B'£'Beef with Cashew Nuts'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C20S'£'Shrimp with Cashew Nuts'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C21'£'Sweet & Sour Shrimp'£'Combination Platters'£FALSE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C22'£'Beef with Szechuan Sauce'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C23'£'Szechuan Shrimp with Vegetables'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C24'£'Hunan Beef'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C25'£'Shredded Beef with Garlic Sauce'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C26B'£'Kung Pao Beef'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'C26S'£'Kung Pao Shrimp'£'Combination Platters'£TRUE£'Served with Pork Fried Rice & Egg Roll'£7.50
+'J1'£'Cucumber Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£3.50
+'J2'£'Avocado Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£3.50
+'J3'£'Avocado Cucumber Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£3.50
+'J4'£'Salmon Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£4.50
+'J5'£'Salmon Avocado Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£4.50
+'J6'£'Shrimp Cucumber Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£4.50
+'J7'£'Tuna Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£4.50
+'J8'£'Tuna Avocado Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£4.50
+'J9'£'Eel Cucumber Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£5.50
+'J10'£'Eel Avocado Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£5.50
+'J11'£'California Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce; Crab meat, cucumber and avocado'£4.50
+'J12'£'Crabmeat Cream Cheese Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce'£4.50
+'J13'£'Spicy Crabmeat Roll'£'Japanese Roll'£TRUE£'With Ginger Wasabi and Soy Sauce'£4.50
+'J14'£'Dragon Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce; Eel, cucumber wrapped with avocado'£9.50
+'J15'£'Rainbow Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce; Crabmeat, cucumber inside, topped with Salmon, tuna, avocado inside'£9.50
+'J16'£'Philly Roll'£'Japanese Roll'£FALSE£'With Ginger Wasabi and Soy Sauce; Avocado, cream cheese and salmon inside'£5.50
+'L1C'£'Chicken Chow Mein'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L1S'£'Shrimp Chow Mein'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L2C'£'Chicken Lo Mein'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L2P'£'Pork Lo Mein'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L3S'£'Shrimp Lo Mein'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L3B'£'Beef Lo Mein'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L4'£'Chicken Broccoli'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L5'£'Chicken with Black Bean Sauce'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L6'£'Chicken with Mixed Vegetables'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L7'£'Moo Goo Gai Pan'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L8'£'Roast Pork with Broccoli'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L9'£'Roast Pork with Mixed Vegetables'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L10'£'Mixed Chinese Vegetables'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L11'£'Broccoli with Garlic Sauce'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L12'£'Chicken with Garlic Sauce'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L13'£'Curry Chicken with Onion'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L14C'£'Chicken Egg Foo Young'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L14P'£'Pork Egg Foo Young'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L14S'£'Shrimp Egg Foo Young'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L15C'£'Sweet & Sour Chicken'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L15P'£'Sweet & Sour Pork'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L16'£'Chicken with Cashew Nuts'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L17'£'Beef with Broccoli'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L18'£'Beef with Mixed Vegetables'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L19'£'Pepper Steak with Onion'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L20'£'Shrimp with Broccoli'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L21'£'Shrimp with Lobster Sauce'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L22'£'Shrimp with Mixed Vegetables'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L23'£'Shrimp with Cashew Nuts'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L24S'£'Shrimp with Garlic Sauce'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L24B'£'Beef with Garlic Sauce'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L25S'£'Shrimp with Black Bean Sauce'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L25B'£'Beef with Black Bean Sauce'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L26B'£'Hunan Beef'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L26S'£'Hunan Shrimp'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L27'£'General Tso''s Chicken'£'Lunch Special'£TRUE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L28'£'Sesame Chicken'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.50
+'L29'£'Bar-B-Q (Barbecue) Spare Ribs'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.75
+'L30'£'Boneless Spare Ribs'£'Lunch Special'£FALSE£'With Roast Pork Fried Rice or White Rice, Choice of: Wonton Soup, soda, or water'£5.75
+'A1'£'Hamburger'£'American Food'£FALSE£NULL£2.20
+'A2'£'Cheese Burger'£'American Food'£FALSE£NULL£2.50
+'A3'£'Double Cheese Burger'£'American Food'£FALSE£NULL£3.50
+'A4M'£'Extra Mushroom'£'American Food'£FALSE£NULL£1.00
+'A4O'£'Extra Onion'£'American Food'£FALSE£NULL£1.00
+'A5'£'Extra Cheese'£'American Food'£FALSE£NULL£0.75
+'SO1'£'Fortune Cookies (5)'£'Side Orders'£FALSE£NULL£0.75
+'SO2P'£'Extra White Rice (Pint)'£'Side Orders'£FALSE£NULL£2.00
+'SO2Q'£'Extra White Rice (Quart)'£'Side Orders'£FALSE£NULL£3.50
+'SO3'£'Extra Ginger'£'Side Orders'£FALSE£NULL£0.75
+'SO4S'£'Soda'£'Side Orders'£FALSE£NULL£1.75
+'S04IT'£'Homemade Iced Tea'£'Side Orders'£FALSE£NULL£1.75
